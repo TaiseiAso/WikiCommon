@@ -1,0 +1,7 @@
+このフォルダに各種データが保存されていく
+各スクリプトがこのフォルダを共有する
+
+./README.md にも記載しましたが準備としてここに
+https://dumps.wikimedia.org/jawiki からダウンロードした
+jawiki-latest-pages-articles.xml.bz2 を置く必要があります
+なければダウンロードしてください (時間がかかる)

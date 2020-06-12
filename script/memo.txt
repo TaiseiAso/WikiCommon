@@ -1,0 +1,5 @@
+./script/WikiExtractor.py は jawiki-latest-pages-articles.xml.bz2 を
+解凍して記事を取り出すスクリプトです
+
+./README.md にも記載しましたが https://github.com/attardi/wikiextractor
+から取ってきているので、なければダウンロードしてください
